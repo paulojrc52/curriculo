@@ -6,7 +6,7 @@ body {
     background: #dfdfdf;
     font-family: 'Raleway', sans-serif;
     color: rgb(34, 34, 34);
-    margin: 5px;
+    margin: 0;
     height: 100%;
 }
 
@@ -49,6 +49,7 @@ h2 {
 
 p {
     line-height: 25px;
+    margin: 5px;
 }
 
 .social-links {
