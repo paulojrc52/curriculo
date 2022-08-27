@@ -2,6 +2,7 @@ body {
     background: #dfdfdf;
     font-family: 'Raleway', sans-serif;
     color: rgb(34, 34, 34);
+    margin: 0;
 }
 
 .container {
@@ -55,4 +56,12 @@ p {
 
 .github {
     margin: 0 15px 0 15px;
+}
+
+.footer {
+    margin-top: 40px;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
 }
